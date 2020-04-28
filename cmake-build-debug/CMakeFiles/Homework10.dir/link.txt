@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Homework10.dir/hw10.main.cpp.o CMakeFiles/Homework10.dir/hw10.fish.cpp.o CMakeFiles/Homework10.dir/hw10.shark.cpp.o CMakeFiles/Homework10.dir/hw10.sea.cpp.o CMakeFiles/Homework10.dir/hw10.ocean.cpp.o  -o Homework10 
